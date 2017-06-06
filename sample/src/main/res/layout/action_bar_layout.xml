@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="@color/colorPrimary">
+
+    <!-- 标题栏左侧功能区 -->
+
+    <ImageView
+        android:id="@+id/left_back_image_view"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_alignParentLeft="true"
+        android:minWidth="56dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/img_actionbar_back"
+        android:visibility="visible" />
+
+    <!-- 添加一个文本，让标题栏居中 -->
+    <RelativeLayout
+        android:id="@+id/center_zones"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="56dp"
+        android:layout_toRightOf="@id/left_back_image_view"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/title_text_center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:textSize="18dp"
+            android:maxEms="8"
+            android:singleLine="true"
+            android:text="TITLE"
+            android:textColor="#fff" />
+    </RelativeLayout>
+
+</RelativeLayout>

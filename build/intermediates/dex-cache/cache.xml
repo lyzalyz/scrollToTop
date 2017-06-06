@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8f20dedb6945b1be136e19a6e3d02acdcfca4544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_707f5f17c6b8b1e1c48942770a0e7849e4e46fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a7324f27948f06a43fb1bc757ef36e56b112b7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/scrolltotop/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad6f175c8145da6b9b29e2595ca5cdde5806a483">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/scrolltotop-library-unspecified_17467896b4e8d45f1018845fb56cd6dee512f09f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_359b0325cea3cc1148817250918b2abb51129d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d0686cc014c5f99bd1c393a8e11b7a2e1eba789c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_94c74a1bc0b5dfddbc72bcd1f4063e16566e25b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3f077b3827da24b11d74c8c39105d722614f52d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6dd2fe2f7c9b1c8d33460bd1e7312bc5fcc7af82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6173ab425abd155e0959a8d99e52b9940babcd10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_86c94ad187478c38e81636cab5bb55233ddb5673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_279ddc1be4d6a2ab9325b553f052e8cfa959676b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/eclipse/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b7ba91379e0168d3e7563cb8441f14ce9bfaa813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fca93c7c3d385c4c2385a2358bc82e10ea05e14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cb1e3d2d356ea984e2e9594fc7f6bae6355b39ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/lyz/Downloads/a_work/tbproject/common/scrolltotop/sample/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8cba7b15301941af9708cf96d286d6add9e2cfd5.jar" />
+    </item>
+
+</items>
