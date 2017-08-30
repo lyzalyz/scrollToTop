@@ -40,18 +40,20 @@ class ScrollListenerProxy implements AbsListView.OnScrollListener {
                 absListView.post(new Runnable() {
                     @Override
                     public void run() {
-                        int firstPosition = absListView.getFirstVisiblePosition();
-                        int lastPosition = absListView.getLastVisiblePosition();
-                        if (mPosition >= firstPosition && mPosition <= lastPosition) {
-                            // Already on screen
-                            return;
+                        try {
+                            int firstPosition = absListView.getFirstVisiblePosition();
+                            int lastPosition = absListView.getLastVisiblePosition();
+                            if (mPosition >= firstPosition && mPosition <= lastPosition) {
+                                // Already on screen
+                                return;
+                            }
+                            absListView.setSelection(mPosition);
+                        } finally {
+                            mPosition = -1;
                         }
-
-                        absListView.setSelection(mPosition);
-
                     }
                 });
-                mPosition = -1;
+
             }
         }
     }
